@@ -1,5 +1,5 @@
 # Prompt user for a password for the SQL Database
-$sqlUser = "SQLadmin"
+$sqlUser = "sqladminuser"
 write-host ""
 $sqlPassword = ""
 $complexPassword = 0
