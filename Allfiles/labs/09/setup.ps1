@@ -1,4 +1,4 @@
-$sqlDatabaseName= "simplidd"
+$sqlDatabaseName= "simplidd2"
 $synapseWorkspace= "simpliss"
 $sqlUser = "sqladminuser"
 $sqlPassword = "password123$"
