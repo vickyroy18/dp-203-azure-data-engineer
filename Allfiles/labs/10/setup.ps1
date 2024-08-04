@@ -1,7 +1,7 @@
-$sqlUser = "SQLUser"
-write-host ""
-$sqlPassword = ""
-$complexPassword = 0
+$sqlDatabaseName= "simplidd3"
+$synapseWorkspace= "simpliss"
+$sqlUser = "sqladminuser"
+$sqlPassword = "password123$"
 
 # Create database
 write-host "Creating the $sqlDatabaseName database..."
