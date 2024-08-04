@@ -1,7 +1,7 @@
 $sqlDatabaseName= "simplidd"
 $synapseWorkspace= "simpliss"
-$sqlUser = "admin"
-$sqlPassword = "password123"
+$sqlUser = "sqladminuser"
+$sqlPassword = "password123$"
 
 
 # Create database
